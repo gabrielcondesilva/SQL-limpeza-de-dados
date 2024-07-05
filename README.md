@@ -36,10 +36,13 @@ Exclusão de Colunas e Linhas Irrelevantes: Remoção de colunas e linhas que n�
 
 ## Ferramentas Utilizadas
 SQL: Linguagem de consulta utilizada para manipulação e limpeza dos dados.
+
 MySQL: Banco de dados onde os dados foram armazenados e manipulados.
 
 
 ## Como Utilizar
 Clone o repositório para sua máquina local.
+
 Importe o dataset disponível no repositório para o seu banco de dados SQL.
+
 Execute os scripts SQL fornecidos para realizar o processo de limpeza de dados.
