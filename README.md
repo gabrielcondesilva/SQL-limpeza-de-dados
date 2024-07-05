@@ -5,13 +5,21 @@ Este projeto demonstra o processo de limpeza de um conjunto de dados utilizando 
 Utilizei um dataset, disponível neste repositório, que abrange demissões em empresas ao redor do mundo durante o período de 2020 até 2023. Esse conjunto de dados inclui as seguintes colunas:
 
 company: Nome da empresa.
+
 location: Localização da empresa.
+
 industry: Indústria em que a empresa atua.
+
 total_laid_off: Total de funcionários demitidos.
+
 percentage_laid_off: Percentual de funcionários demitidos.
+
 date: Data da demissão.
+
 stage: Estágio da empresa (por exemplo, startup, grande empresa).
+
 country: País da empresa.
+
 funds_raised_millions: Fundos arrecadados pela empresa (em milhões).
 
 
