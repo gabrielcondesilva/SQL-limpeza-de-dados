@@ -25,9 +25,13 @@ funds_raised_millions: Fundos arrecadados pela empresa (em milhões).
 
 ## Passos Realizados
 Criação de uma Cópia do Dataset: Criação de uma cópia dos dados originais para evitar alterações irreversíveis em caso de erros.
+
 Remoção de Duplicatas: Uso de comandos SQL para identificar e remover registros duplicados.
+
 Padronização e Validação dos Dados: Aplicação de transformações para assegurar a consistência dos dados, como a conversão de todas as datas para um único formato e a verificação da integridade dos dados.
+
 Tratamento de Valores Nulos e em Branco: Estratégias para lidar com dados ausentes utilização de comandos SQL para preencher ou remover valores ausentes.
+
 Exclusão de Colunas e Linhas Irrelevantes: Remoção de colunas e linhas que não são necessárias para o projeto de análise exploratória.
 
 ## Ferramentas Utilizadas
