@@ -1,9 +1,6 @@
 # SQL-limpeza-de-dados
 Este projeto demonstra o processo de limpeza de um conjunto de dados utilizando SQL, com o objetivo de transformar dados brutos em dados limpos e prontos para análise, garantindo a precisão e a consistência das informações.
 
-# SQL-limpeza-de-dados
-Este projeto demonstra o processo de limpeza de um conjunto de dados utilizando SQL, com o objetivo de transformar dados brutos em dados limpos e prontos para análise, garantindo a precisão e a consistência das informações.
-
 ## Sobre o Dataset
 Utilizei um dataset, disponível neste repositório, que abrange demissões em empresas ao redor do mundo durante o período de 2020 até 2023. Esse conjunto de dados inclui as seguintes colunas:
 
