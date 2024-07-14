@@ -22,7 +22,7 @@ SELECT * FROM layoffs_copia;
 INSERT layoffs_copia
 SELECT * FROM layoffs;
 
--- 2. Remover duplicatas (sem identificador único) usando janela de funções.
+-- 2. Remover duplicatas (sem identificador único) usando window function.
 WITH duplicadas AS (
     SELECT company, location, industry, total_laid_off, percentage_laid_off, `date`, stage, country, funds_raised_millions,
         ROW_NUMBER() OVER (
